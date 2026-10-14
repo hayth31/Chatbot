@@ -1,4 +1,4 @@
-# AI-Powered IOT Hub
+# ChatBot
 
 
 This project explores the integration of Internet of Things (IoT) devices with conversational AI to create a system that allows users to query real-time environmental data through a simple chat interface.
